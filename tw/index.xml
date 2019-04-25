@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jacsaddict</title>
+    <link>http://jacsaddict.github.io/tw/</link>
+    <description>Recent content on jacsaddict</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Apr 2019 14:04:27 +0900</lastBuildDate>
+    
+	<atom:link href="http://jacsaddict.github.io/tw/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://jacsaddict.github.io/tw/about/</link>
+      <pubDate>Wed, 24 Apr 2019 14:04:27 +0900</pubDate>
+      
+      <guid>http://jacsaddict.github.io/tw/about/</guid>
+      <description>嗨，我是 jacsaddict ，目前清華大學的學生，正在大阪大學交換中。主要使用的語言是 python 跟 Javascript ，我的興趣是數值分析跟 node.js ，歡迎各位交流。
+這部落格會用來記錄學習的事物，以及雜談等等，不僅限在資工領域。</description>
+    </item>
+    
+    <item>
+      <title>Reason to Start</title>
+      <link>http://jacsaddict.github.io/tw/posts/reason-to-start/</link>
+      <pubDate>Tue, 23 Apr 2019 20:37:15 +0900</pubDate>
+      
+      <guid>http://jacsaddict.github.io/tw/posts/reason-to-start/</guid>
+      <description>之前在 blogger 時常常有意想編輯，但是編輯的方式實在太過於麻煩，所以開始使用 hugo。雖然都是別人的網域，然而在仔細思考之後，把知識好好的記錄下來才是對我最重要的資產，因此不太在意網域的問題了。
+未來會慢慢將功能裝上去，敬請期待。</description>
+    </item>
+    
+  </channel>
+</rss>

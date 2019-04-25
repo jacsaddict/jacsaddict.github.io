@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on jacsaddict</title>
+    <link>http://jacsaddict.github.io/en/posts/</link>
+    <description>Recent content in Posts on jacsaddict</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Apr 2019 20:37:15 +0900</lastBuildDate>
+    
+	<atom:link href="http://jacsaddict.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reason to Start</title>
+      <link>http://jacsaddict.github.io/en/posts/reason-to-start/</link>
+      <pubDate>Tue, 23 Apr 2019 20:37:15 +0900</pubDate>
+      
+      <guid>http://jacsaddict.github.io/en/posts/reason-to-start/</guid>
+      <description>I used to want to edit it when I was in the blogger, but editing it was too much trouble, so I started using hugo. Although they are all other people&amp;rsquo;s domains, after careful thinking, recording the knowledge is the most important to me.
+I will slowly add the features in the future, so stay tuned.</description>
+    </item>
+    
+  </channel>
+</rss>
